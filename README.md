@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akash-Rayhan
+- 👋 Hi, I’m @M. M. Akash
 - 👀 I’m interested in Robotics
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate with other developers
